@@ -15,7 +15,7 @@ I actually built this because I saw my younger sister playing a game just like i
 
 I used Python's pygame library to manage the window rendering and game loop, along with standard math modules to handle vector projections and circle-to-line segment physics.
 
-** To Win U must draw the box borders so balls do not get away and draw the path to the box **
+## To Win U must draw the box borders so balls do not get away and draw the path to the box 
 
 **Enjoy the Game!**
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e98e34a-81b8-4deb-94c1-9bab13a4cef2" />
